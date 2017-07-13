@@ -1,4 +1,3 @@
----
 # set to true to always show all configuration values
 config_show_defaults: false
 # set to true to show the help text
